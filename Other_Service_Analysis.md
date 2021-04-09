@@ -9,7 +9,7 @@
 | :---: | :------: | :-----: |
 |`1`|**Incident Date**                  |               02/07/2020                             |
 |`2`|**Incident Description**           |              AC Cooling Issue                        |
-|`3`|**Incident Alloted To**            |  [Digital Cool Repair Centre](https://digital-cool-katihar.business.site/)|
+|`3`|**Incident Alloted To**            |  [**Digital Cool Repair Centre**](https://digital-cool-katihar.business.site/)|
 |`4`|**Incident Allotment Date**        |               03/07/2020                             |
 |`5`|**Incident Status**                |                 Resolved                             |
 |`6`|**Incident Resolution Date**       |                04/07/2020                            |
