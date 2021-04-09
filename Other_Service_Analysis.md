@@ -1,11 +1,11 @@
 -----
- # >-**Other_Service_Analysis:-**
+ # >**Other_Service_Analysis:-**
 ```diff
 -Analysis based on Incident ID INC0000212677
 ```
 -----
 
-|***SN***| ***TYPE_OF_INCIDENT***  |    -***DETAILS***  |
+|***$$SN$$***| ***$$TYPE_OF_INCIDENT$$***  |    -***$$DETAILS$$***  |
 | :---: | :------: | :-----: |
 |`1`|**Incident Date**                  |               02/07/2020                             |
 |`2`|**Incident Description**           |              AC Cooling Issue                        |
