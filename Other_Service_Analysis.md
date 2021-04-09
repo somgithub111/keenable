@@ -5,7 +5,7 @@
 ```
 -----
 
-|***$$SN$$***| ***$$TYPE_OF_INCIDENT$$***  |    -***$$DETAILS$$***  |
+|***^^SN^^***| ***^^TYPE_OF_INCIDENT^^***  |    ***^^DETAILS^^***  |
 | :---: | :------: | :-----: |
 |`1`|**Incident Date**                  |               02/07/2020                             |
 |`2`|**Incident Description**           |              AC Cooling Issue                        |
