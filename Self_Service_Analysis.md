@@ -5,7 +5,7 @@
  ```
 -----
 
-|***SN***| ***CONTENTS***  |    ***DETAILS***  |
+|***SN***| ***CONTENTS_OF_ANALYSIS***  |    ***DETAILS***  |
 | :---: | :------: | :-----: |
 |`1`|**Best liked Readme.md on github**                    |     ![Best Readme MarkDown file](https://github.com/somgithub111/keenable/blob/18451352198a52d50611593648a208a404a9e221/MyPassion.md) |                       |
 |`2`|**Status of self Created Readme.md**                  |      (Good)    ★★★★☆               |
