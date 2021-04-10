@@ -4,7 +4,7 @@
 <p  align="center">
   <img src="https://visitor-badge.glitch.me/badge?page_id=somgithub111.somgithub111" alt="visitor badge"/>
 </p>
- <p align="center"> <a href=<https://github-readme-stats.vercel.app/api?username=somgithub111&show_icons=true&theme=gotham%22%20alt=%22somgithub111><img align="center" alt="GitHub" src="https://img.shields.io/badge/Quick Analysis of my github statistics%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/></a></p>
+ <p align="center"> <a href="https://github-readme-stats.vercel.app/api?username=somgithub111&show_icons=true&theme=gotham%22%20alt=%22somgithub111"><img align="center" alt="GitHub" src="https://img.shields.io/badge/Quick Analysis of my github statistics%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/></a></p>
  
 
  <p align="center">&nbsp; <img align="center" src="https://github-readme-stats.vercel.app/api?username=somgithub111&show_icons=true&theme=gotham%22%20alt=%22somgithub111" /> </p>
