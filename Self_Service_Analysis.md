@@ -20,7 +20,7 @@
 |`5`|**Reported Completion on Time to Indu Ma’am on mail** |      Apr 8, 2021, 9:33 PM               |
 
 *****
-## Quick Links:
+<h1 align="center"> Quick Links: </h1>
 
 <p align="center">
   <a href="mailto:someshkmr4@gmail.com"><img src="https://img.icons8.com/color/96/000000/gmail.png" alt="email"/></a>
