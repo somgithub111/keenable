@@ -20,4 +20,15 @@
 |`5`|**Reported Completion on Time to Indu Ma’am on mail** |      Apr 8, 2021, 9:33 PM               |
 
 *****
-         
+## Quick Links:
+
+<p align="center">
+  <a href="mailto:someshkmr4@gmail.com"><img src="https://img.icons8.com/color/96/000000/gmail.png" alt="email"/></a>
+  <a href="https://www.facebook.com/somesh.gupta.140"><img src="https://img.icons8.com/color/96/000000/facebook.png" alt="facebook"/></a>
+  <a href="https://twitter.com/SomeshG43717565"><img src="https://img.icons8.com/color/96/000000/twitter-squared.png" alt="twitter"/></a>
+  <a href="https://www.youtube.com/channel/UCWKWilgAj2KOjZScVH9jlxw"><img src="https://img.icons8.com/color/96/000000/youtube.png" alt="youtube"/></a>
+  <a href="https://www.instagram.com/s0m.gupta/"><img src="https://img.icons8.com/color/96/000000/instagram-new.png" alt="instagram"/></a>
+  <a href="https://www.linkedin.com/in/somesh-kumar-4995b2121/"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin"/></a>
+  <a href="https://open.spotify.com/user/g9rdw9kqfw2arkr1hlp3oozrl"><img src="https://img.icons8.com/color/96/000000/spotify--v1.png" alt="spotify"/></a>         
+
+-----
