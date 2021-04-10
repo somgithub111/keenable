@@ -1,5 +1,6 @@
 # **Other_Service_Analysis:-**
-```diff-Analysis based on Incident ID INC0000212677
+```diff
+-Analysis based on Incident ID INC0000212677
 ```
  -----
  
@@ -9,9 +10,10 @@
  
  </br>
    <p align="center">
-   <a href="mailto:p4prakash90gmail.com?subject=Mail from our Website"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> | <img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/> |  <a href="https://digital-cool-katihar.business.site/#gallery"> <img alt="Protonmail" src="https://img.shields.io/badge/Gallery-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" /></a> | <a href="https://digital-cool-katihar.business.site/#summary"> <img alt="About" src="https://img.shields.io/badge/Services%20-%23500000.svg?&style=for-the-badge&logo=steam&logoColor=white"/></a> | <img alt="" src="https://img.shields.io/badge/Find US%20-%23FFFC00.svg?&style=for-the-badge&logo=Snapchat&logoColor=white"/>
+   <a href="mailto:p4prakash90gmail.com?subject=Mail from our Website"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> | <img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/> |  <a href="https://digital-cool-katihar.business.site/#gallery"> <img alt="Protonmail" src="https://img.shields.io/badge/Gallery-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" /></a> | <a href="https://digital-cool-katihar.business.site/#summary"> <img alt="About" src="https://img.shields.io/badge/Services%20-%23500000.svg?&style=for-the-badge&logo=steam&logoColor=white"/></a> |  <a href=" https://www.google.com/maps/dir//Digital+Cool/@25.5395158,87.5047193,12z/data=!4m8!4m7!1m0!1m5!1m1!1s0x39faa983848e8e61:0x5cea943216f29b25!2m2!1d87.5748235!2d25.5395885"> <img alt="" src="https://img.shields.io/badge/Find US%20-%23FFFC00.svg?&style=for-the-badge&logo=Snapchat&logoColor=white"/></a>
  </p>   
  
+
 -----
 
   
