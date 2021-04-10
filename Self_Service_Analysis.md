@@ -17,5 +17,5 @@
 |`4`|**Description of Self Analysis**                      | I have successfully completed the Assignment with the help of internet sources for codes and now I am learning new features of markdown language to apply and showcase.I have used Headers, line breaks, bold/Italics texts, linking image file etc to my assignment to make it attractive for the client.<br /> _As per today's analysis, i need to focus on below points:-_ <br /><kbd>⌘</kbd> :point_up: Always initiate separate mail chain while forwarding the link/Assignment. <br /> <kbd>⌘</kbd> :v:I have to confirm and cross check with the receiver, if the forwarded file/link has been received or not.                    |
 |`5`|**Reported Completion on Time to Indu Ma’am on mail** |      Apr 8, 2021, 9:33 PM               |
 
-****
+*****
          
