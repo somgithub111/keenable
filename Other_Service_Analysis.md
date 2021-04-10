@@ -1,7 +1,5 @@
-# **Other_Service_Analysis:-**
-```diff
--Analysis based on Incident ID INC0000212677
-```
+<h1 align=center> Other_Service_Analysis: </h1>
+
  -----
  
  <p align="center">
