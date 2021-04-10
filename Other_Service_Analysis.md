@@ -10,10 +10,9 @@
  
  </br>
    <p align="center">
-   <a href="mailto:p4prakash90gmail.com?subject=Mail from our Website"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> | <img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/> |  <a href="https://digital-cool-katihar.business.site/#gallery"> <img alt="Protonmail" src="https://img.shields.io/badge/Gallery-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" /></a> | <img alt="About" src="https://img.shields.io/badge/Services%20-%23500000.svg?&style=for-the-badge&logo=steam&logoColor=white"/> | <img alt="" src="https://img.shields.io/badge/Find US%20-%23FFFC00.svg?&style=for-the-badge&logo=Snapchat&logoColor=white"/>
+   <a href="mailto:p4prakash90gmail.com?subject=Mail from our Website"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> | <img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/> |  <a href="https://digital-cool-katihar.business.site/#gallery"> <img alt="Protonmail" src="https://img.shields.io/badge/Gallery-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" /></a> | <a href="https://digital-cool-katihar.business.site/#summary"> <img alt="About" src="https://img.shields.io/badge/Services%20-%23500000.svg?&style=for-the-badge&logo=steam&logoColor=white"/> | <img alt="" src="https://img.shields.io/badge/Find US%20-%23FFFC00.svg?&style=for-the-badge&logo=Snapchat&logoColor=white"/>
  </p>   
  
-
 -----
 
   
