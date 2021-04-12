@@ -131,6 +131,24 @@ Correspondence Address:</b>
 </details>
 
 <h2 align="center"> :arrow_down:ACKNOWLEDGEMENT </h2>
-<p align="center"> <a href="https://github.com/somgithub111/keenable/blob/a674dfcdf891630c6dd765fd92f0de3bcc3389d5/Self_Service_Analysis.md"><img align="center" alt="GitHub" src="https://img.shields.io/badge/Self_Service_Analysis.md%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/></a></p>  
-
-<a href="https://github.com/somgithub111/test/blob/6f64eed68c0938920324a7dda606499c9f3a8a2a/Links.md"><Best Readme MarkDown files for All Assignments/></a>            |
+<details close="close"> 
+  <summary><b>GitHub links</b></summary>
+  
+<ol>
+  <li><br/>
+ <a href="https://github.com/somgithub111/test/blob/6f64eed68c0938920324a7dda606499c9f3a8a2a/Links.md">Best Readme MarkDown files for concepts used in All Assignments</a>            </li><br/>
+  
+  <li><br/>
+ <a href="https://github.com/othneildrew/Best-README-Template/edit/master/README.md">Concept of Lists(ol/ul/li/details) grabbed from this Readme</a>            
+   </li><br/>
+  
+    <li><br/>
+ <a href="https://www.webfx.com/tools/emoji-cheat-sheet/">Emoji Cheatlists used for small icons used in this assignment</a>            
+   </li><br/>
+   
+   <li><br/>
+ <a href="https://github.com/tchapi/markdown-cheatsheet/blob/master/README.md">Markdown Cheatsheets followed to create this Bio Sheet</a>            
+   </li><br/>
+   
+</details>
+</ol>
