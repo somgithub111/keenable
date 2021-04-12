@@ -33,8 +33,4 @@
 
 ****
 
-<!--
-Source for Digital Cool banner:
-I made my Digital cool banner using codesanbox with < https://codesandbox.io/s/github-profile-forked-k408f?file=/src/main.js >
-Then i recorded my screen to gif using Free Cam App and attached the same.
--->
+
