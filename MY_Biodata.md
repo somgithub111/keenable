@@ -76,26 +76,31 @@ __________
   ```
   <b>
 Date Of Birth: </b>
+
  ```sh
  15th September 1996
   ```
   <b>
 Marital Status: </b>
+
    ```sh
  Unmarried
   ```
  <b> 
 Languages: </b>
+
    ```sh
  English and Hindi
   ```
   <b>
 Correspondence Address:</b>
+
 ```sh
  House No.10, Wazidpur (Near Jaypee Cosmos) Noida Sector 135, UP-854105
   ```
   <b>
-  Permanent Address: </b?
+  Permanent Address: </b>
+  
   ```sh
   C/O-S.K Gupta, Kalibari Colony "Rajhata" Katihar ,Bihar-854105
   ```
