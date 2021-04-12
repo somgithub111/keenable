@@ -26,16 +26,40 @@
 <h1 align="center"> Educational Background </h1> 
 <!-- Education Details of Somesh -->
 <details close="close">
-  <summary>EDUCATION TREE</summary>
-  <ol>
-    <li>
-      <a href="#about-the-project">GRADUATION</a>
+  <summary><b>EDUCATION TREE</b></summary>
+  <ol> <br/>
+     <li>
+      :arrow_down_small:GRADUATION:arrow_down_small:
+        </li>
+    <br/>
+    
+| ***Degree/Qualification***  |    ***Institute/School***  |  ***Aggregate***  |    ***Session***  |
+| :------: | :-----: | :------: | :-----: |
+|B.Tech [Information Technology] |Greater Noida Institute of Technology, Greater Noida[UP]    |66%   |   2013-2017|
+      
+          
+   <br/>                       
+   <li>
+  :arrow_down_small: <u>INTERMEDIATE</u> :arrow_down_small:
        </li>
-    <li>
-      <a href="#about-the-project">INTERMEDIATE</a>
+       <br/>
+       
+| ***Degree/Qualification***  |    ***Institute/School***  |  ***Aggregate***  |    ***Session***  |
+| :------: | :-----: | :------: | :-----: |
+|C.B.S.E [PCME + Informatics Practices] |Guru Gobind Singh Public School, Bokaro[Jharkhand]  |69%   |   2011-2013|     
+
+     
+   <br/>                       
+   <li>
+      :arrow_down_small:MATRICULATION:arrow_down_small:
        </li>
-    <li>
-      <a href="#about-the-project">MATRICULATION</a>
-       </li>
+       <br/>
+       
+| ***Degree/Qualification***  |    ***Institute/School***  |  ***Aggregate***  |    ***Session***  |
+| :------: | :-----: | :------: | :-----: |
+|C.B.S.E [Science+Maths+SST+Eng+Sanskrit ] |Scottish Public School, Katihar[Bihar]  |9.4 CGPA   |  Upto 2011|     
+
 </ol>
 </details>
+
+
