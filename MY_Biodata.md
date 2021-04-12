@@ -138,7 +138,7 @@ Correspondence Address:</b>
 
 <h2 align="center"> :arrow_down:ACKNOWLEDGEMENT </h2>
 <details close="close"> 
-  <summary><b>GitHub links</b></summary>
+  <summary><b>Reference links</b></summary>
   
 <ol>
   <li><br/>
