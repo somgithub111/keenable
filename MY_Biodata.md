@@ -107,8 +107,12 @@ Correspondence Address:</b>
 </ul>
 </details>
 
+-------
+
 <h2 align="center"> :arrow_down:PASSION AND HOBBY </h2>
 <p align="center"><a href="https://github.com/somgithub111/keenable/blob/main/MyPassion.md"><img src="https://www.picgifs.com/graphics/c/click-here/graphics-click-here-851444.gif" border="0" /></a> <a href="https://github.com/somgithub111/keenable/blob/main/MyPassion.md"><My Passion and Hobby/></a></p>
+
+------
 
 <h2 align="center">:arrow_down:RECENT ASSIGNMENTS</h2> 
 <details close="close"> 
@@ -130,6 +134,8 @@ Correspondence Address:</b>
 </ul>
 </details>
 
+-------
+
 <h2 align="center"> :arrow_down:ACKNOWLEDGEMENT </h2>
 <details close="close"> 
   <summary><b>GitHub links</b></summary>
@@ -142,8 +148,8 @@ Correspondence Address:</b>
  <a href="https://github.com/othneildrew/Best-README-Template/edit/master/README.md">Concept of Lists(ol/ul/li/details) grabbed from this Readme</a>            
    </li><br/>
   
-    <li><br/>
- <a href="https://www.webfx.com/tools/emoji-cheat-sheet/">Emoji Cheatlists used for small icons used in this assignment</a>            
+   <li><br/>
+ <a href="https://www.webfx.com/tools/emoji-cheat-sheet/">Emoji Cheatlists used for small icons for this assignment</a>            
    </li><br/>
    
    <li><br/>
