@@ -22,6 +22,11 @@
  <p align="center">&nbsp; <img align="center" src="https://github-readme-stats.vercel.app/api?username=somgithub111&show_icons=true&theme=gotham%22%20alt=%22somgithub111" /> </p>
 
 -----
+<h2 align="center"> :arrow_lower_left:ABOUT ME </h2> 
+
+I have 2 years of Experience as a Support Engineer at _TechMahindra Client location_ on the payroll of **Keenable**. I am a good listener with adaptive learning ability. I have basic knowledge of Cloud Computing technologies- AWS services and currently I am learning Devops from Entry level. I am a Universal Blood Donor - O+ 
+
+_____
 
 <h2 align="center"> :arrow_lower_left:EDUCATIONAL BACKGROUND </h2> 
 <!-- Education Details of Somesh -->
