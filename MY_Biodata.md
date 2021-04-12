@@ -31,7 +31,7 @@ _____
 <h2 align="center"> :arrow_lower_left:EDUCATIONAL BACKGROUND </h2> 
 <!-- Education Details of Somesh -->
 <details close="close"> 
-  <summary><b>EDUCATION TREE </b></summary>
+  <summary><b>Education Tree </b></summary>
   <ol> <br/>
      <li>
       :arrow_down_small:GRADUATION:arrow_down_small:
