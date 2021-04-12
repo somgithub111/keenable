@@ -25,7 +25,7 @@
 
 <h1 align="center"> Educational Background </h1> 
 <!-- Education Details of Somesh -->
-<details open="close">
+<details close="close">
   <summary>EDUCATION TREE</summary>
   <ol>
     <li>
