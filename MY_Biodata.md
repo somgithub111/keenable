@@ -23,7 +23,7 @@
 
 -----
 
-<h1 align="center"> Educational Background </h1> 
+<h1 align="center"> :arrow_lower_left:EDUCATIONAL BACKGROUND </h1> 
 <!-- Education Details of Somesh -->
 <details close="close"> 
   <summary><b>EDUCATION TREE </b></summary>
@@ -62,4 +62,14 @@
 </ol>
 </details>
 
+__________
 
+<h1 align="center">:arrow_lower_left:PERSONAL PROFILE</h1> 
+<details close="close"> 
+  <summary><b>Personal Details</b></summary>
+<ul>
+  Father's Name: 
+ 
+ ```sh
+  Sanjay Kumar Gupta
+  ```
