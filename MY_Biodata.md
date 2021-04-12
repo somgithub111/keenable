@@ -23,7 +23,7 @@
 
 -----
 
-<h1 align="center"> :arrow_lower_left:EDUCATIONAL BACKGROUND </h1> 
+<h2 align="center"> :arrow_lower_left:EDUCATIONAL BACKGROUND </h2> 
 <!-- Education Details of Somesh -->
 <details close="close"> 
   <summary><b>EDUCATION TREE </b></summary>
@@ -64,7 +64,7 @@
 
 __________
 
-<h1 align="center">:arrow_lower_left:PERSONAL PROFILE</h1> 
+<h2 align="center">:arrow_lower_left:PERSONAL PROFILE</h2> 
 <details close="close"> 
   <summary><b>Personal Details</b></summary>
 <ul><br/>
@@ -107,26 +107,30 @@ Correspondence Address:</b>
 </ul>
 </details>
 
-<h1 align="center"> :arrow_down:PASSION AND HOBBY </h1>
-<a href="https://github.com/somgithub111/keenable/blob/main/MyPassion.md"><img src="https://www.picgifs.com/graphics/c/click-here/graphics-click-here-851444.gif" border="0" /></a> <a href="https://github.com/somgithub111/keenable/blob/main/MyPassion.md"><My Passion and Hobby/></a>
+<h2 align="center"> :arrow_down:PASSION AND HOBBY </h2>
+<p align="center"><a href="https://github.com/somgithub111/keenable/blob/main/MyPassion.md"><img src="https://www.picgifs.com/graphics/c/click-here/graphics-click-here-851444.gif" border="0" /></a> <a href="https://github.com/somgithub111/keenable/blob/main/MyPassion.md"><My Passion and Hobby/></a></p>
 
-<h1 align="center">:arrow_lower_left:RECENT ASSIGNMENTS</h1> 
+<h2 align="center">:arrow_down:RECENT ASSIGNMENTS</h2> 
 <details close="close"> 
   <summary><b>GitHub links</b></summary>
-<ol><ul><br/>
-  ![MyPassion.md](https://github.com/somgithub111/keenable/blob/a674dfcdf891630c6dd765fd92f0de3bcc3389d5/MyPassion.md)
-  </ul><br/>
   
+<ol>
   <ul><br/>
-  ![Other_Service_Analysis.md](https://github.com/somgithub111/keenable/blob/a674dfcdf891630c6dd765fd92f0de3bcc3389d5/Other_Service_Analysis.md)
+ <p align="center"> <a href="https://github.com/somgithub111/keenable/blob/a674dfcdf891630c6dd765fd92f0de3bcc3389d5/MyPassion.md"><img align="center" alt="GitHub" src="https://img.shields.io/badge/MyPassion.md%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/></a></p> 
+   </ul><br/>
+  
+ <ul><br/>
+ <p align="center"> <a href="https://github.com/somgithub111/keenable/blob/a674dfcdf891630c6dd765fd92f0de3bcc3389d5/Other_Service_Analysis.md"><img align="center" alt="GitHub" src="https://img.shields.io/badge/Other_Service_Analysis.md%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/></a></p> 
   </ul><br/>
 
  <ul><br/>
-  ![Self_Service_Analysis.md](https://github.com/somgithub111/keenable/blob/a674dfcdf891630c6dd765fd92f0de3bcc3389d5/Self_Service_Analysis.md)
+ <p align="center"> <a href="https://github.com/somgithub111/keenable/blob/a674dfcdf891630c6dd765fd92f0de3bcc3389d5/Self_Service_Analysis.md"><img align="center" alt="GitHub" src="https://img.shields.io/badge/Self_Service_Analysis.md%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/></a></p>  
   </ul><br/>
 
 </ul>
 </details>
 
-<h1 align="center"> :arrow_down:ACKNOWLEDGEMENT </h1>
-<a href="https://github.com/somgithub111/test/blob/6f64eed68c0938920324a7dda606499c9f3a8a2a/Links.md"><img src="https://www.picgifs.com/graphics/c/click-here/graphics-click-here-851444.gif" border="0" /></a> ![Best Readme MarkDown file](https://github.com/somgithub111/test/blob/6f64eed68c0938920324a7dda606499c9f3a8a2a/Links.md) |                       |
+<h2 align="center"> :arrow_down:ACKNOWLEDGEMENT </h2>
+<p align="center"> <a href="https://github.com/somgithub111/keenable/blob/a674dfcdf891630c6dd765fd92f0de3bcc3389d5/Self_Service_Analysis.md"><img align="center" alt="GitHub" src="https://img.shields.io/badge/Self_Service_Analysis.md%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/></a></p>  
+
+<a href="https://github.com/somgithub111/test/blob/6f64eed68c0938920324a7dda606499c9f3a8a2a/Links.md"><Best Readme MarkDown files for All Assignments/></a>            |
