@@ -25,7 +25,6 @@
 
 <h1 align="center"> Educational Background </h1> 
 <!-- Education Details of Somesh -->
-<img src="https://www.picgifs.com/graphics/c/click-here/graphics-click-here-851444.gif" border="0" /> </a> :arrow_down_small:
 <details close="close"> 
   <summary><b>EDUCATION TREE </b></summary>
   <ol> <br/>
