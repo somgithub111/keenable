@@ -101,6 +101,8 @@
  <h2 align="center">CONCLUSION</h2> 
 
  I have researched on google to Explore different Ideas, functions and Formulas through which i have gained the calculated Idea to complete this task.I have also observed multiple methods of other Interns assigned with this task and observed the other possible ways through which this task has been completed.
+ 
+ ----
  <br/>
  <br/>
  <b>Link of the Spreadsheet:</b> 
@@ -109,7 +111,7 @@
 Feel Free to Drop any Suggestions/Upgradations regarding this markdown on below mail-
 <p align="center">
   <a href="mailto:someshkmr4@gmail.com"><img src="https://img.icons8.com/color/96/000000/gmail.png" alt="email"/></a>
-------
+
  
  
  
