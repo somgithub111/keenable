@@ -112,7 +112,16 @@
  <br/>
  <b>Link of the Script:</b> 
  <p align="left"><a href="https://drive.google.com/drive/folders/19HB1MKjL_NrmajPQ-TXmCGRAr_WBNnfE?usp=sharing"> <img src="https://www.picgifs.com/graphics/c/click-here/graphics-click-here-851444.gif" border="0" /></a> 
+ <br/>
  
+ <b>Link of the sample Downloaded spreadsheet as CSV:</b> 
+ <p align="left"><a href="https://drive.google.com/drive/folders/1K5h_bzdaPLTJH7ZF1d_czQZfMeu6Vxrs?usp=sharing"> <img src="https://www.picgifs.com/graphics/c/click-here/graphics-click-here-851444.gif" border="0" /></a> 
+ 
+ <br/>
+ <b>Link of the sample Output generated from CSV via script:</b> 
+ <p align="left"><a href="https://drive.google.com/drive/folders/1cneXnyZOXIcY9-Cly51sDvFODH9y7uGE?usp=sharing"> <img src="https://www.picgifs.com/graphics/c/click-here/graphics-click-here-851444.gif" border="0" /></a>
+ 
+ <br/>
 Feel Free to Drop any Suggestions/Upgradations regarding this markdown on below mail-
 <p align="center">
   <a href="mailto:someshkmr4@gmail.com"><img src="https://img.icons8.com/color/96/000000/gmail.png" alt="email"/></a>
