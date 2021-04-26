@@ -7,7 +7,7 @@
 
 ----
 
-t<h2 align="center">TEST CASES</h2> 
+<h2 align="center">TEST CASES</h2> 
 
 |Test Cases|Test Case Description|Steps Performed| Test Status|Output
 |:----:|:-----:|:-----:|:-----:|:-----:|
