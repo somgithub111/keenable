@@ -9,7 +9,7 @@ The Previous script is downloading two Evaluation reports in CSV file through li
  2. Sum  : _______
  3. Average:______
  
-<h2 align="center">BASIC OVERVIEW</h2>
+<h2 align="center">BASIC UNDERSTANDING</h2>
 <p align=center> The basic overview of the new assignment is to create a new script which is testing the checkpoints of previous script, whether it pass or fail as per assessment.We can create that to check if the previous scripts meet all the requirement or not. <br/><b> Below are the sample checkpoints idea </b> </p>
   
    |Cases|Checkpoints|Condition|
